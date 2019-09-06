@@ -1,0 +1,9 @@
+<div class="poem_style">
+<!-- POEM 2: What a Strange Thing // Kobayashi Issa -->
+	<header class="poem_title"> What a Strange Thing // Kobayashi Issa <br> Post Date: 2019-09-05</header>
+	<p>
+	What a strange thing!<br>
+	to be alive<br>
+	beneath cherry blossoms.<br>
+	<p>
+</div>
